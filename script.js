@@ -25,4 +25,5 @@ function letteredNumbers(num) {
     console.log(arr);
 }
 
+letteredNumbers(100);
 letteredNumbers(10);
